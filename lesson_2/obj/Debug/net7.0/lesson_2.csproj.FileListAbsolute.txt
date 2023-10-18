@@ -1,0 +1,15 @@
+/Users/kayhanren/Documents/Coding/Csharp/lesson_2/bin/Debug/net7.0/lesson_2
+/Users/kayhanren/Documents/Coding/Csharp/lesson_2/bin/Debug/net7.0/lesson_2.deps.json
+/Users/kayhanren/Documents/Coding/Csharp/lesson_2/bin/Debug/net7.0/lesson_2.runtimeconfig.json
+/Users/kayhanren/Documents/Coding/Csharp/lesson_2/bin/Debug/net7.0/lesson_2.dll
+/Users/kayhanren/Documents/Coding/Csharp/lesson_2/bin/Debug/net7.0/lesson_2.pdb
+/Users/kayhanren/Documents/Coding/Csharp/lesson_2/obj/Debug/net7.0/lesson_2.csproj.AssemblyReference.cache
+/Users/kayhanren/Documents/Coding/Csharp/lesson_2/obj/Debug/net7.0/lesson_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kayhanren/Documents/Coding/Csharp/lesson_2/obj/Debug/net7.0/lesson_2.AssemblyInfoInputs.cache
+/Users/kayhanren/Documents/Coding/Csharp/lesson_2/obj/Debug/net7.0/lesson_2.AssemblyInfo.cs
+/Users/kayhanren/Documents/Coding/Csharp/lesson_2/obj/Debug/net7.0/lesson_2.csproj.CoreCompileInputs.cache
+/Users/kayhanren/Documents/Coding/Csharp/lesson_2/obj/Debug/net7.0/lesson_2.dll
+/Users/kayhanren/Documents/Coding/Csharp/lesson_2/obj/Debug/net7.0/refint/lesson_2.dll
+/Users/kayhanren/Documents/Coding/Csharp/lesson_2/obj/Debug/net7.0/lesson_2.pdb
+/Users/kayhanren/Documents/Coding/Csharp/lesson_2/obj/Debug/net7.0/lesson_2.genruntimeconfig.cache
+/Users/kayhanren/Documents/Coding/Csharp/lesson_2/obj/Debug/net7.0/ref/lesson_2.dll
